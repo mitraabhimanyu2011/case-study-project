@@ -1,0 +1,23 @@
+body
+{
+    background-color:black;
+    color:cornsilk;
+}
+
+h5
+{
+    font-family: Grechen Fuemen, cursive;
+}
+
+h4
+{
+    font-family: Grechen Fuemen, cursive;
+    text-align: center;
+}
+
+img
+{
+    height: 310;
+    width: 500;
+    box-shadow:2px 2px 2px 2px bisque;
+}
